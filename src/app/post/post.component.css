@@ -1,0 +1,11 @@
+.post-id,
+.post-user-id {
+  margin-top: 2px;
+  margin-left: 5px;
+}
+
+.post-title,
+.post-body {
+  margin-left: 5px;
+  width: 50%;
+}

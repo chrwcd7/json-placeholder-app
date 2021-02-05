@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  background-color: #1976d2;
+  color: #fff;
+}
+
+.post-container {
+  display: grid;
+	grid-gap: 16px;
+}
+
+.post-container app-post {
+  /* display: block; */
+  background-color: #f5f8f8;
+  border: 1px solid black;
+  cursor: pointer;
+  grid-row: span 10;
+  grid-column: span 10;
+}
