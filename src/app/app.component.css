@@ -10,7 +10,7 @@
 }
 
 .post-container app-post {
-  /* display: block; */
+  display: block;
   background-color: #f5f8f8;
   border: 1px solid black;
   cursor: pointer;
